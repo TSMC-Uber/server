@@ -8,13 +8,15 @@
         "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
     },
     "dependencies": {
-        "axios": "^1.6.0",
+        "axios": "^1.6.2",
         "chart.js": "3.3.2",
         "primeflex": "^3.3.1",
         "primeicons": "^6.0.1",
         "primevue": "3.39.0",
         "vue": "^3.2.41",
+        "vue-google-oauth2": "^1.5.10",
         "vue-router": "^4.1.5",
+        "vue3-google-login": "^2.0.25",
         "vuex": "^4.1.0"
     },
     "devDependencies": {
